@@ -24,8 +24,6 @@ The design was evaluated using:
 - Monte Carlo simulations
 - Performance metrics: DNL, settling time, power, area, output compliance
 
-## Documentation
-- Full project specification and report: see `/report/Exponential_iDAC_Report.pdf`
 
 ## Contributors
 - Ibrahim Ali Harbi  
